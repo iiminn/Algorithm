@@ -2,8 +2,8 @@
 
 ----
 
-JAVA Algorithm Solutions
-
+### JAVA Algorithm Solutions
+<br><br>
 
 # 기록 요약
 | 번호  | 알고리즘       | 제목               | 난이도   | 보기                                                         |
