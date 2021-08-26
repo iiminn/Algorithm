@@ -1,5 +1,3 @@
-package com.ssafy.algo.SWEA;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -8,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class p1225 {
+public class 1225 {
 	private static String input = "1\r\n" + "9550 9556 9550 9553 9558 9551 9551 9551 \r\n" + "2\r\n"
 			+ "2419 2418 2423 2415 2422 2419 2420 2415 \r\n" + "3\r\n" + "7834 7840 7840 7835 7841 7835 7835 7838 \r\n"
 			+ "4\r\n" + "4088 4087 4090 4089 4093 4085 4090 4084 \r\n" + "5\r\n"
@@ -19,7 +17,6 @@ public class p1225 {
 			+ "6580 6579 6574 6580 6583 6580 6577 6581\n";
 
 	private static List<Integer> arr;
-	// private static boolean flag = true;
 
 	public static void MakePassword() {
 		int cycle = 1;
@@ -51,7 +48,6 @@ public class p1225 {
 			for (int i = 0; i < 8; i++) {
 				arr.add(Integer.parseInt(st.nextToken()));
 			}
-			// int arr[] = new int[8];
 			MakePassword();
 			for (int i = 0; i < 8; i++) {
 				sb.append(arr.get(i)).append(" ");
