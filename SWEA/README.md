@@ -20,5 +20,7 @@
 | 2001 | -        |       파리 퇴치        | D2     | - Math.max() 내장 메서드 사용<br />- 배열 범위 유의(ArrayIndexoutofBounds 에러 유의) |
 | 1218 | Stack    |      괄호 짝짓기       | D4     | - 스택 사용(스택 메서드- peek, push, pop)                    |
 | 1225 | -        |      암호 생성기       | D3     | - List<Integer> arr=new ArrayList<Integer>();<br />- arr. remove(index) |
+| 1861 | 서로소   |      정사각형 방       | D4     | - 서로소<br />- IF문 처리순서에 대한 유의(함께 또는 내부에 따로 처리) |
 |      |          |                        |        |                                                              |
 |      |          |                        |        |                                                              |
+
