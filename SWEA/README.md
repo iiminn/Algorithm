@@ -21,6 +21,6 @@
 | 1218 | Stack    |      괄호 짝짓기       | D4     | - 스택 사용(스택 메서드- peek, push, pop)                    |
 | 1225 | -        |      암호 생성기       | D3     | - List<Integer> arr=new ArrayList<Integer>();<br />- arr. remove(index) |
 | 1861 | 서로소   |      정사각형 방       | D4     | - 서로소<br />- IF문 처리순서에 대한 유의(함께 또는 내부에 따로 처리) |
-|      |          |                        |        |                                                              |
+| 3499 | -        |      퍼펙트 셔플       | D3     | - arrayList의 get(index) 메소드> 특정 조작시 해당하는 것에 맞게(ex>i/2)<br />- 나뉘는 부분이 확실하면 변수를 2개로 조작하기 |
 |      |          |                        |        |                                                              |
 
