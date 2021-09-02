@@ -24,5 +24,7 @@
 | 3499 | -        |      퍼펙트 셔플       | D3     | - arrayList의 get(index) 메소드> 특정 조작시 해당하는 것에 맞게(ex>i/2)<br />- 나뉘는 부분이 확실하면 변수를 2개로 조작하기 |
 | 5215 | DFS      |    햄버거 다이어트     | D3     | - DFS 알고리즘(재귀, visited 배열)<br />- 재귀 반환조건 설정 유의 |
 | 1228 | -        |        암호문1         | D3     | - ArrayList 이중배열 <br />  ArrayList<Node> list[]=new ArrayList[N+1];<br />  for(int i=1;i<=v;i++){<br />        list[i]=new ArrayList<>();<br />  }<br />- StringTokenizer의 이중사용<br />- LinkedList로도 구현해보기 |
+| 9229 | DFS      |   한빈이와 Spot Mart   | D3     | - DFS 알고리즘(재귀, visited 배열)<br />  재귀의 반환 조건 및 조건 충족 안될 때 설정 |
+|      |          |                        |        |                                                              |
 |      |          |                        |        |                                                              |
 
