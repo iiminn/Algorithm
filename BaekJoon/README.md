@@ -12,6 +12,6 @@
 | 1244  | -              | 스위치 켜고 끄기   | S4     | - 조건 따라 순차적으로 처리<br />- 인덱스 유의               |
 | 2493  | Stack          | 탑                 | G5     | - 문제를 반대로 해결하는 접근<br />- Stack사용<br />- Stack.size()<br />- Queue는 new LinkedList로 작성(Queue가 Interface)<br />- List, ArrayList, Queue, Stack, Vector 등의 <E>에 원래는 클래스 사용, but Wrapper 클래스 통해 Primitive Type 사용 가능(박싱<-> 언박싱) |
 | 1158  | Queue          | 요세푸스 문제      | S5     | - Queue 사용<br />- 싸이클 조건 설정                         |
-|       |                |                    |        |                                                              |
+| 2563  | -              | 색종이             | S5     | - 문제  Flat하게 보기<br />- 어렵게 생각말고 2차원 배열로 쉽게 생각하기<br />- for문 설정 많아서 헷갈리면 함수 나누기 |
 |       |                |                    |        |                                                              |
 
