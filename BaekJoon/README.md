@@ -13,5 +13,7 @@
 | 2493  | Stack          | 탑                 | G5     | - 문제를 반대로 해결하는 접근<br />- Stack사용<br />- Stack.size()<br />- Queue는 new LinkedList로 작성(Queue가 Interface)<br />- List, ArrayList, Queue, Stack, Vector 등의 <E>에 원래는 클래스 사용, but Wrapper 클래스 통해 Primitive Type 사용 가능(박싱<-> 언박싱) |
 | 1158  | Queue          | 요세푸스 문제      | S5     | - Queue 사용<br />- 싸이클 조건 설정                         |
 | 2563  | -              | 색종이             | S5     | - 문제  Flat하게 보기<br />- 어렵게 생각말고 2차원 배열로 쉽게 생각하기<br />- for문 설정 많아서 헷갈리면 함수 나누기 |
+| 16926 | -              | 배열 돌리기 1      | S2     | - 다시 해보기★<br />- 상하좌우를 배열로 미리 담아두고 면 단위로 움직이기 |
+|       |                |                    |        |                                                              |
 |       |                |                    |        |                                                              |
 
