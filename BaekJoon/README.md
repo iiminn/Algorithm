@@ -24,3 +24,5 @@
 | 1074  | Recursive Call      | Z                         | S1     | - 완전 탐색이 아니라 원하는 부분을 집중적으로 찾기<br />- 재귀로 더 간단히 풀 수 있음<br />- Math.power(double, double)  > 리턴값도 double이라 int로 명시적 형변환 필요.<br />- n* n * 3 /4 하는 과정에서 integer 범위( -2147483648 ~ 2147483647)를 벗어남 <br />   > long을 쓸 수도 있지만, 계산이 정확하지 않음 . 그래서 우선 4를 나눈 뒤 곱함. |
 | 1992  | Divided and conquer | 쿼드트리                  | S1     | - 분할 정복<br />- 재귀 연습 더하기<br />- 인덱스 설정에 유의 |
 | 1987  | DFS                 | 알파벳                    | G4     | - DFS > visited 체크하고 재귀 돌리고 체크 풀기<br />- DFS는 반복문이 필수는 아님.(시작이 정해진 경우는 반복문을 굳이 필요하지 않음)<br />- 기저조건에 대한 강박 버리기<br />- String은 생성하는 방식에 따라 결과가 다르게 나올수 있으니 equals를 쓰자. |
+| 1759  | Combination         | 암호 만들기               | G5     | - 조합<br />- Character.toString  : char -> string<br />- String str; str.charAt(index) : string -> char<br />- Arrays.sort();<br />- return 위치 유념 |
+
